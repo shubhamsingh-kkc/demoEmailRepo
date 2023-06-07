@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailClientConsoleApp", "EmailClientConsoleApp\EmailClientConsoleApp.csproj", "{DFEA2B7B-68BA-492A-8B48-59C1E064815F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEA2B7B-68BA-492A-8B48-59C1E064815F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEA2B7B-68BA-492A-8B48-59C1E064815F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEA2B7B-68BA-492A-8B48-59C1E064815F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEA2B7B-68BA-492A-8B48-59C1E064815F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

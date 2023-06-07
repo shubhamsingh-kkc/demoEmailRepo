@@ -1,0 +1,15 @@
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\bin\Debug\net7.0\EmailClientConsoleApp.exe
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\bin\Debug\net7.0\EmailClientConsoleApp.deps.json
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\bin\Debug\net7.0\EmailClientConsoleApp.runtimeconfig.json
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\bin\Debug\net7.0\EmailClientConsoleApp.dll
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\bin\Debug\net7.0\EmailClientConsoleApp.pdb
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\obj\Debug\net7.0\EmailClientConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\obj\Debug\net7.0\EmailClientConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\obj\Debug\net7.0\EmailClientConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\obj\Debug\net7.0\EmailClientConsoleApp.AssemblyInfo.cs
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\obj\Debug\net7.0\EmailClientConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\obj\Debug\net7.0\EmailClientConsoleApp.dll
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\obj\Debug\net7.0\refint\EmailClientConsoleApp.dll
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\obj\Debug\net7.0\EmailClientConsoleApp.pdb
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\obj\Debug\net7.0\EmailClientConsoleApp.genruntimeconfig.cache
+C:\Users\Shubham Singh\RiderProjects\EmailClientDemo\EmailClientConsoleApp\obj\Debug\net7.0\ref\EmailClientConsoleApp.dll
