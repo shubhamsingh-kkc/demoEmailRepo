@@ -11,7 +11,7 @@ SmtpClient smtp = new SmtpClient();
 smtp.Host = "smtp.gmail.com";
 smtp.EnableSsl = true;
 smtp.UseDefaultCredentials = false;
-smtp.Credentials = new NetworkCredential("s.shubham999.ss@gmail.com","zhmdjykaeisgaekb");
+smtp.Credentials = new NetworkCredential("s.shubham999.ss@gmail.com","YourGeneratedPassword");
 smtp.Port = 587;
 
 // Email setup
